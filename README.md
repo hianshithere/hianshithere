@@ -1,31 +1,39 @@
-<h1>👋 Hi, I'm Anshit, a Software Developer with 6 years of experience in development primarily using Java tech stack</h1>
-
-<h2>🛠️ Tech Stack</h2>
-<ul>
-  <li>Programming languages: Java, Python, SQL, YAML, Vanilla JavaScript</li>
-  <li>Frameworks/Libraries: Spring MVC, Spring Boot, Spring-JPA, Spring Security, Spring AOP, Hibernate ORM, Junit, Mockito</li>
-  <li>Databases: Oracle, MySQL, DynamoDB</li>
-  <li>Web Technologies: REST, JSON, AJAX, Tomcat</li>
-  <li>Tools: GitHub, Bitbucket, Docker, Kubernetes, Skaffold</li>
-</ul>
-
-<h2>🔥 Key Impacts</h2>
-<ul>
-  <li>Experienced in Software Development Lifecycle, Java Development, and Agile Methodologies</li>
-  <li>Proficient in Requirement gathering and Cross-functional Coordination</li>
-  <li>Expertise in SQL Query/Optimization, Testing & Debugging, and Code Merge and Deployment</li>
-  <li>Familiar with Configuration Management</li>
-</ul>
-
-<h2>📫 Get in touch</h2>
-<ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/anshitkumarsharma/">Connect via LinkedIn</a></li>
-  <li>Email: <a href="mailto:anshitkumarsharma@yahoo.com">Connect via email</a></li>
-</ul>
-
-<p>Feel free to connect with me if you have any questions or just want to say hi!</p>
-
-
-
-
-
+<body>
+	<h1>Anshit Kumar Sharma</h1>
+	<h2>👨‍💻 Senior Software Developer</h2>
+	<p>Welcome to my GitHub profile! My name is Anshit Kumar Sharma, and I am a senior software developer with 6 years of experience. I am proficient in a wide range of programming languages, frameworks, databases, and tools, including:</p>
+	<h3>Technical Skills</h3>
+	<ul>
+		<li>Programming: Java, Python, SQL Query, JavaScript, HTML, CSS</li>
+		<li>Frameworks: Spring MVC, Spring Boot, Spring Security, Spring JPA, Hibernate ORM, Spring Redis</li>
+		<li>Database: Oracle, MySQL, Amazon Dynamo DB</li>
+		<li>Version Control: GitHub, Bitbucket</li>
+		<li>Tools: Jira, IntelliJ, Eclipse, STS 4, SonarQube</li>
+		<li>Deployment / CI and CD: Docker, Kubernetes, Skaffold, Jenkins</li>
+		<li>Caching: Redis</li>
+		<li>Technologies: REST, JDBC, XML, JSON, AJAX, Tomcat, Linux CLI</li>
+		<li>Operating System: Windows, Mac, Linux</li>
+	</ul>
+	<p>My key impact areas include:</p>
+	<ul>
+		<li>Software development lifecycle</li>
+		<li>Java development</li>
+		<li>Agile methodologies</li>
+		<li>Requirement gathering</li>
+		<li>Cross-functional coordination</li>
+		<li>SQL query/optimization</li>
+		<li>Testing & debugging</li>
+		<li>Code merge and deployment</li>
+		<li>Configuration management</li>
+	</ul>
+	<p>In addition to my technical skills, I also possess a range of soft skills that enable me to work collaboratively and effectively in a team environment. These skills include:</p>
+	<ul>
+		<li>Observational</li>
+		<li>Time management</li>
+		<li>Good communicator</li>
+		<li>Competent in adjusting to emerging technologies</li>
+		<li>Critical problem solver</li>
+		<li>Teamwork and collaboration</li>
+	</ul>
+	<p>I am always looking to expand my skills and knowledge in the software development field, and I am open to new opportunities and collaborations. Feel free to browse my GitHub repositories and connect with me on LinkedIn.</p>
+</body>
