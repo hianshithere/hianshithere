@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Anshit, a Software Developer with 6 years of experience in development mostly using Java tech stack</h1>
+<h1>👋 Hi, I'm Anshit, a Software Developer with 6 years of experience in development primarily using Java tech stack</h1>
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
